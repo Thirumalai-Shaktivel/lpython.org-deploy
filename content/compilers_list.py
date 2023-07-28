@@ -41,9 +41,11 @@ compilers_list = {
     "Quansight-Labs/uarray"     : [  22,  1,    98],
     "shedskin/shedskin"         : [  20,  7,   701],
     "jython/jython"             : [  18,  4,   897],
+    "exaloop/codon"             : [  10,  8, 13060],
     "seq-lang/seq"              : [   9,  0,   680], # Archived on Dec 8, 2022.
     "jakeret/hope"              : [   6,  0,   385],
     "fluiddyn/transonic"        : [   3,  1,   105],
+    "modularml/mojo"            : [   0,  0,     0],
 }
 
 # To update GitHub stars

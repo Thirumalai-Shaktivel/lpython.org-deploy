@@ -74,7 +74,7 @@ Name | Total Contributors | Recent Contributors | Total stars
 [Taichi](https://github.com/taichi-dev/taichi)              |  224 | 44 | 23503
 [Nuitka](https://github.com/Nuitka/Nuitka)                  |  138 | 36 |  9385
 [Pythran](https://github.com/serge-sans-paille/pythran)     |   58 |  9 |  1912
-[Pypy.org](https://github.com/pypy/pypy.org)                |   36 |  5 |    21
+[Pypy.org](https://doc.pypy.org/en/latest/)                 |   36 |  5 |    21
 [Weld](https://github.com/weld-project/weld)                |   35 |  0 |  2945
 [LPython](https://github.com/lcompilers/lpython)            |   34 | 28 |   141
 [Ironpython3](https://github.com/IronLanguages/ironpython3) |   33 |  5 |  2179
@@ -84,8 +84,10 @@ Name | Total Contributors | Recent Contributors | Total stars
 [Uarray](https://github.com/Quansight-Labs/uarray)          |   22 |  1 |    98
 [Shedskin](https://github.com/shedskin/shedskin)            |   20 |  7 |   701
 [Jython](https://github.com/jython/jython)                  |   18 |  4 |   897
+[Codon](https://github.com/exaloop/codon)                   |   10 |  8 | 13060
 [Seq](https://github.com/seq-lang/seq)                      |    9 |  0 |   680
 [Hope](https://github.com/jakeret/hope)                     |    6 |  0 |   385
 [Transonic](https://github.com/fluiddyn/transonic)          |    3 |  1 |   105
+[Mojo](https://docs.modular.com/mojo/)                      |    - |  - |     -
 
 [issue tracker]: https://github.com/lcompilers/lpython/issues
